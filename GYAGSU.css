@@ -1,0 +1,37 @@
+html{
+	padding: 20px;
+	font-family: monospace;
+}
+button{
+	border-radius: 5%;
+}
+li {
+	list-style: none;
+	float: left;
+	margin-left: 100px;
+	background-color: yellowgreen;
+	margin-bottom: 50px;
+   
+}
+
+a{
+ text-decoration: none;
+ font-size: 20px;
+ font-family: monospace;
+ color: #95ddbf;
+}
+nav{
+	background-color: yellowgreen;
+	font-style: oblique;
+	padding-top: 20px;
+}
+.Nav{
+	align-content: center;
+	margin-bottom: 10px;
+	background-color: yellowgreen;
+	background-size: 100px,100px;
+
+}
+img{
+	align-items: center;
+}
